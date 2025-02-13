@@ -56,5 +56,5 @@ The greedy algorithm is superior due to its polynomial complexity compared to fa
 Execution Output  
  Brute Force Execution Output
 (https://github.com/Mittalpranshu/TaskScheduler/blob/main/Brute.png)
- Greedy Algorithm Execution Output
+      Greedy Algorithm Execution Output
 (https://github.com/Mittalpranshu/TaskScheduler/blob/main/Greedy.png)
